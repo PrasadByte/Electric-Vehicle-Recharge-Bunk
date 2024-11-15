@@ -1,0 +1,65 @@
+/* File: src/style/Navbar.css */
+
+.navbar {
+    position: fixed; /* Fix the navbar at the top */
+    top: 0; /* Aligns it at the top */
+    width: 100%; /* Full-width navbar */
+    z-index: 999; /* Keeps it on top of other elements */
+    background-color: #f8f9fa; /* Light background for visibility */
+    padding: 0.75rem 1rem; /* Padding for spacing */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  }
+  
+  /* Ensure the navbar has enough height */
+  .navbar .navbar-brand,
+  .navbar .navbar-nav .nav-link {
+    color: #333;
+    font-size: 1rem;
+  }
+  
+  .navbar .navbar-brand {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .navbar .navbar-nav .nav-link {
+    color: #333;
+    margin-right: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar .navbar-nav .nav-link:hover {
+    color: #007bff; /* Highlight color on hover */
+  }
+  
+  .navbar .navbar-nav .nav-link.active {
+    color: #007bff;
+    font-weight: bold;
+    border-bottom: 2px solid #007bff; /* Underline for active link */
+  }
+  
+  .navbar .form-control {
+    width: 200px;
+  }
+  
+  .navbar .btn-outline-success {
+    margin-left: 0.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    /* Responsive styling for smaller screens */
+    .navbar .form-control {
+      width: 100%;
+      margin-top: 0.5rem;
+    }
+    .navbar .btn-outline-success {
+      width: 100%;
+      margin-top: 0.5rem;
+    }
+  }
+  
+  /* Adding padding-top to body to avoid overlap with fixed navbar */
+  body {
+    padding-top: 70px; /* Adjust based on the navbar height */
+  }
+  

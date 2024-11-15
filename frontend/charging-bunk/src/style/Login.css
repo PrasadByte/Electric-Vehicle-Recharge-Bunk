@@ -1,0 +1,81 @@
+/* General body styling (excluding navbar) */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;   /* Optional background color */
+}
+
+/* Style the login form container */
+.Login-form {
+  background-color: rgba(255, 255, 255, 0.85); /* Slightly transparent white background */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  width: 350px;
+  text-align: center;
+  background: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png") no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;  /* Absolute positioning */
+  top: 50%;            /* Center it vertically */
+  left: 50%;           /* Center it horizontally */
+  transform: translate(-50%, -50%); /* Offset by half of its own width and height */
+}
+
+/* Style the heading inside the form */
+.Login-form h2 {
+  color: #033452;
+  margin-bottom: 20px;
+}
+
+/* Style for the form elements */
+.Login-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* Style for input fields */
+.Login-form input[type="email"],
+.Login-form input[type="password"] {
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+}
+
+/* Style for the login button */
+.Login-form button {
+  padding: 12px;
+  background-color: #033452;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the button */
+.Login-form button:hover {
+  background-color: #025ea3;
+}
+
+/* Style for the sign-up link */
+.Login-form a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 14px;
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect for the sign-up link */
+.Login-form a:hover {
+  color: #0056b3;
+}

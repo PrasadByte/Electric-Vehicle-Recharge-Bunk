@@ -1,0 +1,99 @@
+/* Home.css */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+ 
+  color: #333;
+}
+
+.home {
+  background: linear-gradient(to bottom, #e0f7fa, #e6ee9c);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; 
+}
+
+.home-header {
+  margin-bottom: 2rem;
+}
+
+.home-header h1 {
+  font-size: 3rem;
+  color: #00796b;
+}
+
+.home-header p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.home-main {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.search-section {
+  margin-bottom: 3rem;
+}
+
+.search-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #00796b;
+}
+
+.search-section p {
+  margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+  background: #00796b;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background: #004d40;
+}
+
+.info-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.info-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #00796b;
+}
+
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.step h3 {
+  font-size: 1.5rem;
+  color: #00796b;
+}
+
+.step p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.home-footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #555;
+}

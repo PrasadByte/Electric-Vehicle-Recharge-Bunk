@@ -1,0 +1,66 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;   /* Optional background color */
+  }
+  
+  /* Style the create bunk form container */
+  .create-bunk {
+    background-color: rgba(255, 255, 255, 0.85); /* Slightly transparent white background */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+    background: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png") no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;  /* Absolute positioning */
+    top: 50%;            /* Center it vertically */
+    left: 50%;           /* Center it horizontally */
+    transform: translate(-50%, -50%); /* Offset by half of its own width and height */
+  }
+  
+  /* Style the heading inside the form */
+  .create-bunk h2 {
+    color: #033452;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the form elements */
+  .create-bunk form {
+    display: flex;
+    flex-direction: column; /* Stack form elements vertically */
+    gap: 15px;              /* Space between elements */
+  }
+  
+  /* Style for input fields */
+  .create-bunk input[type="text"],
+  .create-bunk input[type="number"] {
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;            /* Ensure inputs take full width of form */
+  }
+  
+  /* Style for the submit button */
+  .create-bunk button {
+    padding: 12px;
+    background-color: #033452;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hover effect for the submit button */
+  .create-bunk button:hover {
+    background-color: #025ea3;
+  }
+  
