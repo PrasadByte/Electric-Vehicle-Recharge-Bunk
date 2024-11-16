@@ -5,13 +5,18 @@ import Register from './components/Register';
 import Login from './components/Login';
 import CreateBunk from './components/CreateBunk';
 import Navbar from './components/Navbar';
+import UserDashboard from './components/UserDashboard';
+  
 
 
 const App = () => {
   return (
     <><Navbar /><>
+ 
+ 
       <Router>
         <Routes>
+        <Route path="/dashboard" element={<UserDashboard />} />
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/register" element={<Register />} />
