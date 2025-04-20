@@ -19,12 +19,18 @@ namespace EletricVehicleChargingBunk.Controllers
         [HttpPost("register")]
         public IActionResult RegisterUser([FromBody] User user)
         {
+            if (string.IsNullOrWhiteSpace(user.Name))
+            {
+                return BadRequest(new { message = "Name is required" });
+            }
+
             if (_userService.CreateUser(user.Name, user.Email, user.Password) != null)
             {
                 return Ok(new { message = "User registered successfully" });
             }
             return BadRequest(new { message = "User registration failed" });
         }
+
 
         [HttpPost("login")]
         public IActionResult LoginUser([FromBody] User loginRequest)

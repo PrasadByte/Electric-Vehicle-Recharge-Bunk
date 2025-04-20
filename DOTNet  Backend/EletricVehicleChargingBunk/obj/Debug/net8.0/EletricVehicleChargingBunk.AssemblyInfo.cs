@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EletricVehicleChargingBunk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81264277e80924e25ede9b6b1c07187df527ac5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+913a6de518b8a06922e51ed78cd5b8ea445cd3f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EletricVehicleChargingBunk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EletricVehicleChargingBunk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

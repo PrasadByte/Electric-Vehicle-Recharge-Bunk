@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\eletricvehiclechargingbunk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:eletricvehiclechargingbunk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\migrations\\evchargingmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:migrations\\evchargingmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\data\\evcharging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:data\\evcharging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|c:\\users\\prasa\\onedrive\\desktop\\project1\\dotnet  backend\\eletricvehiclechargingbunk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D708A8D2-DE60-4D8F-B4D8-8A3F86DE8130}|EletricVehicleChargingBunk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T07:34:44.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:19:54.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EletricVehicleChargingBunk.csproj",
-              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\EletricVehicleChargingBunk.csproj",
-              "RelativeDocumentMoniker": "EletricVehicleChargingBunk.csproj",
-              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\EletricVehicleChargingBunk.csproj",
-              "RelativeToolTip": "EletricVehicleChargingBunk.csproj",
+              "DocumentIndex": 2,
+              "Title": "loginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Models\\loginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\loginRequest.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Models\\loginRequest.cs",
+              "RelativeToolTip": "Models\\loginRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T12:21:12.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EvCharging.cs",
-              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Data\\EvCharging.cs",
-              "RelativeDocumentMoniker": "Data\\EvCharging.cs",
-              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Data\\EvCharging.cs",
-              "RelativeToolTip": "Data\\EvCharging.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:07:32.934Z",
+              "WhenOpened": "2024-11-27T04:33:57.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
               "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAAFAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T05:31:33.917Z",
+              "WhenOpened": "2024-11-26T18:18:53.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:17:35.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T05:19:58.551Z",
+              "WhenOpened": "2024-11-26T18:17:14.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EvChargingModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Migrations\\EvChargingModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\EvChargingModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Migrations\\EvChargingModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\EvChargingModelSnapshot.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\OneDrive\\Desktop\\project1\\DOTNet  Backend\\EletricVehicleChargingBunk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:37:43.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T18:14:22.539Z"
             }
           ]
         }

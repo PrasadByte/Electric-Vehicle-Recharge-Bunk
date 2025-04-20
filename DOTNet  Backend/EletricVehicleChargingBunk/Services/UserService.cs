@@ -19,7 +19,7 @@ namespace EletricVehicleChargingBunk.Services
             var hashedPassword = BCrypt.Net.BCrypt.HashPassword(password);
             var user = new User
             {
-                Name = name,
+               // Name = name,
                 Email = email,
                 Password = hashedPassword,
             };
